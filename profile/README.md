@@ -12,7 +12,7 @@ Just open a PR(Pull Request) for an Application or sample project, and we'll mak
 
 <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java logo" width="20" height="40"/>
 
-<img src="https://github.com/adnanchohan/.github-WatchFulAI/assets/67076584/ea1e0b44-9405-41dd-8e5f-ae5740107585" alt="Kotlin logo" width="20" height="40"/>
+<img src="https://github.com/adnanchohan/.github-WatchFulAI/assets/67076584/ea1e0b44-9405-41dd-8e5f-ae5740107585" alt="Kotlin logo" width="40" height="40"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="40" height="40"/>
 
