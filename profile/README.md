@@ -12,14 +12,17 @@ Just open a PR(Pull Request) for an Application or sample project, and we'll mak
 
 <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java logo" width="20" height="40"/>
 
+<img src="https://github.com/adnanchohan/.github-WatchFulAI/assets/67076584/ea1e0b44-9405-41dd-8e5f-ae5740107585" alt="Kotlin logo" width="40" height="40"/>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="40" height="40"/>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js logo" width="80" height="40"/>
 
 <!-- Upcoming Stacks -->
 
 <!-- <a href="https://github.com/deeplcom/deepl-dotnet"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C# logo" width="40" height="40"/></a>  -->
 
-<!-- <a href="https://github.com/DeepLcom/deepl-node"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js logo" width="80" height="40"/></a>  -->
+
 
 
 </p>
