@@ -28,8 +28,3 @@ Just open a PR(Pull Request) for an Application or sample project, and we'll mak
 </p>
 
 <!-- ### Projects Overview -->
-
-
-### Contact Org-Founder
-adnan.chohan104@gmail.com
-+92-343-2017613
