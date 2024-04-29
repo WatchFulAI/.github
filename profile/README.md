@@ -18,6 +18,8 @@ Just open a PR(Pull Request) for an Application or sample project, and we'll mak
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js logo" width="80" height="40"/>
 
+<img src="https://github.com/WatchFulAI/.github/assets/67076584/beacd653-2f97-4874-82d7-00b29a8c2e33" alt="Android logo" width="50" height="50"/>
+
 <!-- Upcoming Stacks -->
 
 <!-- <a href="https://github.com/deeplcom/deepl-dotnet"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C# logo" width="40" height="40"/></a>  -->
