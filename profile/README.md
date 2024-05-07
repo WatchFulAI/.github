@@ -1,6 +1,6 @@
 # Welcome to WatchFulAI@GitHub
 
-Our goal is to provide better solutions to the modern days problem using Artifical Intelligence and Technology Stacks, In order to achieve that goal we are on a journey to create robust systems, projects and applications.
+Our goal is to provide better solutions to the modern days problem using Artificial Intelligence and Technology Stacks, In order to achieve that goal we are on a journey to create robust systems, projects and applications.
 
 Due to confidentiality and data policy some of our projects are private and others are public and open for your deliteful contributions.
 
